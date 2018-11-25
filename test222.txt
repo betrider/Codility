@@ -1,2 +1,0 @@
-mv:         cannot open `mv' (No such file or directory)
-test22.txt: empty
